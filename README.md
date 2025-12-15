@@ -27,8 +27,8 @@ Este repositorio contiene una colección de **notebooks (.ipynb)** con modelos m
   ➡️ Base para APIs de predicción y análisis probabilístico.
 
   
-- `11_Support_Vector_Machine.ipynb`  
-  Modelos de de prediccion: Util para la creacion de APIs que requieran preocesamiento matematico.  
+- `11_Support_Vector_Machine.ipynb`
+  Modelos de de prediccion: Util para la creacion de APIs que requieran preocesamiento matematico.
   ➡️ Base para APIs de predicción y procesamiento matematico para el manejo de informacion.
 
 ---
